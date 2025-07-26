@@ -1,0 +1,7 @@
+streamlit run multiple disease pred.py
+
+streamlit run multiple disease pred.py
+
+streamlit run pred2.py
+
+streamlit run DMD3.py
